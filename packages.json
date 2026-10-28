@@ -1,0 +1,8 @@
+[
+  {
+    "package": "proxmint",
+    "url": "https://github.com/proxmint/free-proxy-list",
+    "subdir": "r",
+    "branch": "r-v0.1.0"
+  }
+]
